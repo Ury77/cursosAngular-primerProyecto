@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+footer {
+    background: -moz-linear-gradient(#6b6b67, #0c0c0b);
+    width: 100%;
+    height: 35px;
+    bottom: 0;
+    position: relative;
+    color: white;
+}
