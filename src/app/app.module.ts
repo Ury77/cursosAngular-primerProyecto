@@ -15,12 +15,10 @@ import { FooterComponent } from './components/footer/footer.component';
     SidebarComponent,
     CardComponent,
     InfoComponent,
-    FooterComponent
+    FooterComponent,
   ],
-  imports: [
-    BrowserModule
-  ],
+  imports: [BrowserModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}

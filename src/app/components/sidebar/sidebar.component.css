@@ -1,0 +1,48 @@
+.sidebar {
+    position: absolute;
+    width: 210px;
+    height: 100%;
+    background: #000000;
+    color: #fff;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar h2 {
+    text-align: center;
+    margin: 0;
+    background: red;
+    padding: 10px;
+}
+
+.sidebar li {
+    border: 1px solid;
+}
+
+.sidebar li:hover {
+    background: #f10f64;
+}
+
+.sidebar a {
+    display: block;
+    color: #ffffff;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.menu-bar {
+    cursor: pointer;
+}
+
+.abrir {
+    transform: translateX(210px);
+}
+
+.contenido {
+    position: absolute;
+    background: green;
+}

@@ -1,0 +1,15 @@
+.baa {
+    margin-top: 0%;
+    padding: 0px;
+    border: 0px;
+}
+
+.degradado {
+    background: -moz-linear-gradient(#6b6b67, #0c0c0b);
+    /* For Firefox 3.6 to 15 */
+}
+
+.titulo {
+    font: oblique bold 120% cursive;
+    color: cornflowerblue;
+}
